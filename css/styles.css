@@ -4,13 +4,11 @@ body {
     font-size: 18px;
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     line-height: 1.3;
-}
-
-/*HOME*/
-.home {
     background: url(../images/sharon-mccutcheon-unsplash.jpg) no-repeat;
     background-size: cover;
 }
+
+/*MAIN*/
 
 /*Links*/
 a {
