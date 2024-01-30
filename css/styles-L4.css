@@ -32,7 +32,7 @@ body {
     color: rgb(247, 251, 250);
     letter-spacing: .2em;
     font-size: 6rem;
-    text-shadow: .07em .07em 0 #3c8453, .1em .1em 0 white;
+    text-shadow: .07em .07em 0 #333333, .1em .1em 0 white;
 }
 
 .projects {
@@ -78,8 +78,8 @@ footer a:hover {
 
 /*Button stules*/
 .btn {
-    background: #3c8453;
-    color: #f6f6f6;
+    background: #fbb03b;
+    color: #333333;
     text-decoration: none;
     padding: 10px;
     border-radius: 5px;
@@ -87,12 +87,12 @@ footer a:hover {
 
 .btn:hover {
     background: #222;
-    color: #3c8453;
+    color: #fbb03;
 }
 
 /*FOOTER*/
 footer {
-    background: #222;
+    background: #333333;
     color: #d3d4d6;
     margin: 0;
     padding-bottom: 20px;
@@ -119,5 +119,4 @@ footer h2 {
 }
 
 .sm-list img:hover {
-    opacity: 0.5;
-}
+    opacity: 0.5;}
