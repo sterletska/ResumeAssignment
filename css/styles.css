@@ -28,9 +28,7 @@ footer a:hover {
     color: #3c8453;
 }
 
-.sm-list {
-    list-style-type: none;
-}
+
 
 .btn {
     background: #3c8453;
@@ -49,5 +47,17 @@ footer a:hover {
 footer {
     background: #222;
     color: #d3d4d6;
+}
 
+.sm-list {
+    list-style-type: none;
+    padding: 0;
+}
+
+.sm-list li {
+    display: inline-block;
+}
+
+.sm-list img {
+    width: 32px;
 }
